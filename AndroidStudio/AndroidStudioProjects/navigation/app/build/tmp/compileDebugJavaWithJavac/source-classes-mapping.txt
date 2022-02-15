@@ -1,2 +1,0 @@
-com/example/navi/BuildConfig.java
- com.example.navi.BuildConfig
